@@ -7,4 +7,4 @@ Summarize the project:
 2. Choose and transform features in order to create useful datasets
 3. Use ML models (Linear Regression, XGBoost, Random Forests, KNNs, SVM) to predict success (M&A or IPO) of the companies (binary classification)
 
-I used data from CrunchBase extracted in 2015
+The data are extracted from CrunchBase in 2015
